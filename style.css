@@ -153,7 +153,7 @@ a:hover {
     color: rgba(255, 255, 255, 1);
 }
 
-.d-bloc .navbar-toggle .icon-bar {
+.d-bloc .icon-bar {
     background: rgba(255, 255, 255, 1);
 }
 
@@ -252,7 +252,7 @@ a:hover {
     color: rgba(0, 0, 0, 1);
 }
 
-.l-bloc .navbar-toggle .icon-bar {
+.l-bloc .icon-bar {
     color: rgba(0, 0, 0, .6);
 }
 
@@ -337,16 +337,7 @@ a:hover {
     background: transparent;
 }
 
-.navbar-toggle {
-    margin: 10px 10px 0 0;
-    border: 0px;
-}
-
-.navbar-toggle:hover {
-    background: transparent!important;
-}
-
-.navbar-toggle .icon-bar {
+.icon-bar {
     background-color: rgba(0, 0, 0, .5);
     width: 26px;
 }
@@ -397,7 +388,7 @@ a:hover {
         margin-right: 0px;
         margin-top: 20px;
     }
-    .nav-center.mini-nav .navbar-toggle {
+    .nav-center.mini-nav {
         float: none;
         margin: 10px auto 0;
     }
@@ -969,7 +960,7 @@ h4 {
         float: none;
         width: 100%;
     }
-    .nav-invert .navbar-toggle {
+    .nav-invert {
         float: left;
         margin-left: 10px;
     }
