@@ -133,7 +133,8 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color:rgb(70, 69, 69);
+  
 }
 
 .d-bloc .a-btn:hover,
@@ -716,6 +717,12 @@ h3 {
 h1 {
     color: white !important;
 }
+h2 {
+    color: black !important;
+}
+
+
+
 
 h4 {
     color: #333333!important;
@@ -724,6 +731,7 @@ h4 {
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
+    color: black !important;
 }
 
 .white {
