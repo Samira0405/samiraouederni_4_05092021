@@ -777,6 +777,14 @@ h4 {
     color: white !important;
 }
 
+.titre_principal_contact
+{
+    color: black !important;
+    text-align: center;
+}
+.text_contact{color: black !important;
+text-align: center;}
+
 .btn-atomic-tangerine {
     background: white;
     color: black !important;
