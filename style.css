@@ -774,7 +774,7 @@ h4 {
 }
 
 .tc-white {
-    color: white !important;
+    color: black !important;
 }
 
 .btn-atomic-tangerine {
@@ -825,6 +825,8 @@ h4 {
     background-image: url("img/image-de-presentation.webp");
 }
 
+
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
@@ -837,6 +839,8 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+
+    
 }
 
 @media (max-width: 992px) and (min-width: 768px) {
