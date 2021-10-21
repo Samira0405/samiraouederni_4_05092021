@@ -786,8 +786,8 @@ h4 {
 text-align: center;}
 
 .btn-atomic-tangerine {
-    background: white;
-    color: black !important;
+    background: rgb(63, 62, 62);
+    color: white !important;
 }
 
 .btn-atomic-tangerine:hover {
